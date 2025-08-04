@@ -1,0 +1,16 @@
+
+
+BigShotDesktopBuddy/
+├── src/
+│   ├── main.cpp          # Entry point
+│   ├── window_manager.cpp # Window transparency & positioning
+│   ├── character.cpp     # Character states & animation
+│   ├── menu.cpp          # Context menu system
+│   ├── dialogue.cpp      # Text display system
+│   ├── process_monitor.cpp # Game detection
+│   └── resources.cpp     # Asset loading
+├── assets/
+│   ├── sprites/          # Character animations
+│   ├── sounds/           # Audio files
+│   └── fonts/           # Text fonts
+└── build/               # Compiled output
